@@ -1,0 +1,1 @@
+# Proyecto-de-Operadores-Ineficaces-mediante-Pruebas-Estad-sticas
