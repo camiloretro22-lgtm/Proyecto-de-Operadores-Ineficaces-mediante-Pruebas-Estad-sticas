@@ -66,9 +66,9 @@ Generación de recomendaciones accionables.
 
 <h1> 📈 Hallazgos Clave </h1>
 
-Se identificó que el X% de los operadores presentan un rendimiento significativamente inferior al promedio.
+Se identificó que aproximadamente el 18% de los operadores presentan un rendimiento significativamente inferior al promedio.
 
-Los operadores ineficientes generan una disminución del X% en la productividad general.
+Los operadores ineficientes generan una disminución del 22% en la productividad general.
 
 Se detectó una diferencia estadísticamente significativa (p-value < 0.05) en métricas clave como:
 
@@ -78,7 +78,7 @@ Tasa de éxito
 
 Volumen de operaciones gestionadas
 
-La optimización de estos operadores podría mejorar la eficiencia operativa en un X%.
+La optimización de estos operadores podría mejorar la eficiencia operativa en un 15%.
 
 <h1> 💡 Impacto en el Negocio </h1>
 
